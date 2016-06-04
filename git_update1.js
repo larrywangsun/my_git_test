@@ -1,3 +1,3 @@
 var func = function() {
-    console.log('git update1');
+    console.log('git update1 user2');
 }
