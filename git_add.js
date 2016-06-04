@@ -1,3 +1,3 @@
 var func = function() {
-	console.log('git add no delete');
+	console.log('git add');
 }
